@@ -66,9 +66,17 @@ This  is the last project of our course: Internet-based Information Extraction. 
 
     `bash test.sh`
 
-##Pipeline
+## Pipeline
+
 - train
-![image]()
 
+![image](https://github.com/MondayYuan/re-svm/raw/master/image/train.png)
 
+- test
+
+![image](https://github.com/MondayYuan/re-svm/raw/master/image/test.png)
+
+- feature extraction
+
+![image](https://github.com/MondayYuan/re-svm/raw/master/image/feature_example.png)
 
