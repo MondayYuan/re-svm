@@ -1,4 +1,4 @@
-relation-extraction
+Relation Extraction Based on SVM
 ===================
 This  is the last project of our course: Internet-based Information Extraction. We need to extract all employee relations from a text.
 
